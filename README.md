@@ -1,2 +1,2 @@
 # Tremor-Analysis
-Website for Tremor Analysis App.
+Website for Tremor Analysis App
